@@ -1,0 +1,18 @@
+body{
+  background-color: #ffc800;
+}
+img{
+  height:400px;
+  width: 600px;
+}
+h3{
+  text-align:left; font-family: cursive; color: #AB7800; font-size: 32px;
+}
+h1{
+  text-align:left; font-family: cursive; color: #AB7800; font-size: 35px;
+  }
+table{
+  background-color: lavenderblush;
+}
+p{
+  text-align:center; font-family: Arial, Helvetica, sans-serif; color: white; font-size: 37px;
